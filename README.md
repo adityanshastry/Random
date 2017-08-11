@@ -12,3 +12,5 @@ This repo will contain some random code written for some hackathon/fun projects:
 
 Libraries used:
 1) NLTK:  To perform sentence/word tokenization, and get the POS tags on the sentences
+2) terminal\_notifier: Generated the notifications by issuing an executable command. </br>
+    Installation: brew install terminal-notifier
